@@ -1,0 +1,8 @@
+INSERT INTO `tbl_employees`(`salary`, `first_name`, `last_name`, `title`, `age`, `datetime_created`, `emp_id`) VALUES ('28' , (19500.00) ,NOW(), 'jonei' , 'weber' ,NULL , 'sec');
+INSERT INTO `tbl_employees`(`salary`, `first_name`, `last_name`, `title`, `age`, `datetime_created`, `emp_id`) VALUES ('32' , (45300.00) ,NOW(), 'Posty' , 'weber' ,NULL , 'Prog1');
+INSERT INTO `tbl_employees`(`salary`, `first_name`, `last_name`, `title`, `age`, `datetime_created`, `emp_id`) VALUES ('45' ,(75020.00) ,NOW(), 'Dirk' , 'Smith' ,NULL , 'Prog2');
+INSERT INTO `tbl_employees`(`salary`, `first_name`, `last_name`, `title`, `age`, `datetime_created`, `emp_id`) VALUES ('12' ,(75000.00) ,NOW(), 'Max' , 'Weader' ,NULL , 'Player1');
+INSERT INTO `tbl_employees`(`salary`, `first_name`, `last_name`, `title`, `age`, `datetime_created`, `emp_id`) VALUES ('13' ,(76000.00) ,NOW(), 'Ben' , 'vonder' ,NULL , 'Player2');
+INSERT INTO `tbl_employees`(`salary`, `first_name`, `last_name`, `title`, `age`, `datetime_created`, `emp_id`) VALUES ('14' ,(77000.00) ,NOW(), 'Jenny' , 'Miller' ,NULL , 'Player3');
+INSERT INTO `tbl_employees`(`salary`, `first_name`, `last_name`, `title`, `age`, `datetime_created`, `emp_id`) VALUES ('1' ,(100000.00) ,NOW(), 'Sam' , 'Hitter' ,NULL , 'Player4');
+INSERT INTO `tbl_employees`(`salary`, `first_name`, `last_name`, `title`, `age`, `datetime_created`, `emp_id`) VALUES ('5' ,(71000.000) ,NOW(), 'Ron' , 'Stick' ,NULL() , 'Player5');
